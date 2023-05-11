@@ -1,3 +1,5 @@
+**Project Portfolio: https://github.com/calebyhan/CalebHan**
+
 Uses Euler's linear approximation to approximate a value of f(c).
 
 ```py
